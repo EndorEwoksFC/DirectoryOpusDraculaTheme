@@ -1,8 +1,8 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Directory Opus](https://www.gpsoft.com.au/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Directory Opus](https://www.gpsoft.com.au/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./DirectoryOpusScreenshot.png)
 
 ## Install
 
