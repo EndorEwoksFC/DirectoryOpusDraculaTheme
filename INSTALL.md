@@ -1,4 +1,4 @@
-### [Foobar](https://foobar.com)
+### [Directory Opus](https://www.gpsoft.com.au/)
 
 #### Install using Git
 
@@ -14,6 +14,8 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/ar
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. In Directory Opus click Settings, then Preferences...
+2. Under the Colors and Fonts section click on Themes (or just search for Themes in the search box on the bottom left)
+3. Click Import (Alt + M)
+4. Select the .dlt file that you just downloaded
+5. Click Save, then OK
